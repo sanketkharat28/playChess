@@ -1,6 +1,6 @@
 # Chess Multiplayer Game 🎉
 
-A real-time chess game built with **React, WebSockets, and Chess.js**.
+A real-time chess game built with **React, WebSockets and Chess.js**.
 
 ## Features
 - Play chess in real-time with another player.
