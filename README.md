@@ -26,7 +26,7 @@ cd playChess
 ### 2. Install Dependencies
 Backend:
 ```sh
-cd backend1
+cd backend
 npm install
 ```
 
